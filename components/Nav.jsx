@@ -1,10 +1,10 @@
 import Link from "next/link";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fontawesome/react-fontawesome";
 import {
     faMagnifyingGlass,
     faShoppingCart,
     faLocationDot,
-} from "@fortawesome/free-solid-svg-icons";
+} from "@fontawesome/free-solid-svg-icons";
 
 export const Nav = () => {
   return (

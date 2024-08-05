@@ -1,8 +1,8 @@
 import Link from "next/link";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fontawesome/react-fontawesome";
 import {
   faBars
-} from "@fortawesome/free-solid-svg-icons";
+} from "@fontawesome/free-solid-svg-icons";
 
 import {HeroSection} from '@components/HeroSection';
 import { Footer } from "@components/Footer";
